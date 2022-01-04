@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Bash, Go and Much More**
 
-- 📝 I regularly write articles on [https://chirag0x22.medium.com/](https://chirag0x22.medium.com/)
+- 📝 I regularly write articles on <a href="[https://chirag0x22.medium.com/]"> Here </a>(https://chirag0x22.medium.com/)
 
 - ⚡ Fun fact **Though I am into Cyber Security but I feel bad when someone calls me a Hacker**
 
