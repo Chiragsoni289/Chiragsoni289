@@ -5,6 +5,8 @@
 
 - 📝 I regularly write articles on [chirag0x22](chirag0x22)
 
+- ⚡ Fun fact **Though I am into Cyber Security but I feel bad when someone calls me a Hacker**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chiragsoni404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiragsoni404" height="30" width="40" /></a>
