@@ -6,6 +6,7 @@
 - 📝 I regularly write articles [Here](https://chirag0x22.medium.com/)
 
 - ⚡ Fun fact **Though I am into Cyber Security but I feel bad when someone calls me a Hacker**
+- ![](https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
